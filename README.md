@@ -1,17 +1,17 @@
 # dwm - dynamic window manager
 dwm is an extremely fast, small, and dynamic window manager for X.
 
-# Installation for newbs
+## Installation for newbs
 ```bash
 git clone https://github.com/idkwastaken69/dwm.git
 cd dwm
 sudo make clean install
 ```
 
-# Configuration
+## Configuration
 You can edit the configuration in config.h
 
-# Keybindings
+## Keybindings
 The default keybinds for my build are:
 * **SUPER+q:** Open terminal (alacritty)
 * **SUPER+w:** Open web browser (librewolf)
@@ -26,5 +26,5 @@ The default keybinds for my build are:
 * **SUOER+Tab:** Toggle between tags
 * **SUPER+Shift+l:** Lock screen (betterlockscreen)
 
-# Notes
+## Notes
 This is only tested on my system for the specific software I use. If you have issues then boohoo
