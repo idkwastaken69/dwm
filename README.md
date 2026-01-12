@@ -23,7 +23,7 @@ The default keybinds for my build are:
 * **SUPER+123456789:** Switch tags
 * **SUPER+Shift+123456789:** Move windows between tags
 * **SUPER+Minus/SUPER+Equals:** Change window size
-* **SUOER+Tab:** Toggle between tags
+* **SUPER+Tab:** Toggle between tags
 * **SUPER+Shift+l:** Lock screen (betterlockscreen)
 
 ## Notes
